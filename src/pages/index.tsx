@@ -5,7 +5,7 @@ import { Seo } from "../components/Seo";
 export default function IndexPage() {
   return (
     <Layout title="Welcome to DevSticker">
-      <div></div>
+      <div>찡니개츠비</div>
     </Layout>
   );
 }
